@@ -1,0 +1,1 @@
+This directory is reserved for auto generated code documentation resources.
